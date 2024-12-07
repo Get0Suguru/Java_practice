@@ -1,0 +1,6 @@
+
+
+
+* syntaxx
+
+    1. its compalsary to tell the size of the row (telling column is not)
